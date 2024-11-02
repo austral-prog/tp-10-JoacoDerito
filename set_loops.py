@@ -1,2 +1,3 @@
-def unique_strings(words):
-    pass
+def unique_strings(ex):
+	return set(ex)
+	
